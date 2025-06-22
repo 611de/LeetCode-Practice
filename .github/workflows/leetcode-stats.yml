@@ -8,6 +8,8 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许写入仓库内容
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
