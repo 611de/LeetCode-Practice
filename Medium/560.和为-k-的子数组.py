@@ -7,18 +7,15 @@
 # @lc code=start
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        nums.sort()
-        count = 0
+        s = [0]*(len(nums)+1)
         for i in range(len(nums)):
-            j=i
-            sum = nums[i]
-            while sum < k:
-                j += 1
-                sum = nums[j] 
-            if sum==k:
-                count+=1
-        return count
-            
+            s[i+1] = s[i] + nums[i]
+        cnt = defaultdict(int)  
+        res = 0
+        for sj in s:
+            res += cnt[sj-k]
+            cnt[sj]+=1
+        return res
 
         
 # @lc code=end
