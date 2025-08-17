@@ -179,14 +179,14 @@ LeetCode-Practice/
   <circle cx="414.375" cy="200" class="point" fill="#EF4444" />
   <circle cx="480.625" cy="200" class="point" fill="#EF4444" />
   <circle cx="546.875" cy="195" class="point" fill="#EF4444" />
-  <text x="83.125" y="215" text-anchor="middle" class="label" transform="rotate(45,83.125,215)">25</text>
-  <text x="149.375" y="215" text-anchor="middle" class="label" transform="rotate(45,149.375,215)">26</text>
-  <text x="215.625" y="215" text-anchor="middle" class="label" transform="rotate(45,215.625,215)">27</text>
-  <text x="281.875" y="215" text-anchor="middle" class="label" transform="rotate(45,281.875,215)">28</text>
-  <text x="348.125" y="215" text-anchor="middle" class="label" transform="rotate(45,348.125,215)">29</text>
-  <text x="414.375" y="215" text-anchor="middle" class="label" transform="rotate(45,414.375,215)">30</text>
-  <text x="480.625" y="215" text-anchor="middle" class="label" transform="rotate(45,480.625,215)">31</text>
-  <text x="546.875" y="215" text-anchor="middle" class="label" transform="rotate(45,546.875,215)">32</text>
+  <text x="83.125" y="215" text-anchor="middle" class="label" transform="rotate(45,83.125,215)">26</text>
+  <text x="149.375" y="215" text-anchor="middle" class="label" transform="rotate(45,149.375,215)">27</text>
+  <text x="215.625" y="215" text-anchor="middle" class="label" transform="rotate(45,215.625,215)">28</text>
+  <text x="281.875" y="215" text-anchor="middle" class="label" transform="rotate(45,281.875,215)">29</text>
+  <text x="348.125" y="215" text-anchor="middle" class="label" transform="rotate(45,348.125,215)">30</text>
+  <text x="414.375" y="215" text-anchor="middle" class="label" transform="rotate(45,414.375,215)">31</text>
+  <text x="480.625" y="215" text-anchor="middle" class="label" transform="rotate(45,480.625,215)">32</text>
+  <text x="546.875" y="215" text-anchor="middle" class="label" transform="rotate(45,546.875,215)">33</text>
   <line x1="450" y1="35" x2="470" y2="35" class="line" stroke="#34D399" />
   <circle cx="460" cy="35" class="point" fill="#34D399" />
   <text x="475" y="39" class="label">Easy</text>
