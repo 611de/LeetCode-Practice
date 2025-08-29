@@ -27,8 +27,8 @@ LeetCode-Practice/
 
 ## **📈 Progress**
 
-- **Total Solved**: `93` problems (Easy: `22`, Medium: `63`, Hard: `8`)
-- Easy: ██░░░░░░░░ 22/93 (23%) | Medium: ██████░░░░ 63/93 (67%) | Hard: ░░░░░░░░░░ 8/93 (8%)
+- **Total Solved**: `100` problems (Easy: `22`, Medium: `69`, Hard: `9`)
+- Easy: ██░░░░░░░░ 22/100 (22%) | Medium: ██████░░░░ 69/100 (69%) | Hard: ░░░░░░░░░░ 9/100 (9%)
 - **Current Focus**: Advanced algorithms (e.g., graph traversal, advanced DP)
 - **Daily Goal**: Solve `1-2` problems to maintain consistency.
 
@@ -49,15 +49,15 @@ LeetCode-Practice/
   <line x1="50" y1="200" x2="580" y2="200" class="grid" />
   <text x="45" y="205" text-anchor="end" class="label">0</text>
   <line x1="50" y1="165" x2="580" y2="165" class="grid" />
-  <text x="45" y="170" text-anchor="end" class="label">37</text>
+  <text x="45" y="170" text-anchor="end" class="label">40</text>
   <line x1="50" y1="130" x2="580" y2="130" class="grid" />
-  <text x="45" y="135" text-anchor="end" class="label">74</text>
+  <text x="45" y="135" text-anchor="end" class="label">80</text>
   <line x1="50" y1="95" x2="580" y2="95" class="grid" />
-  <text x="45" y="100" text-anchor="end" class="label">111</text>
+  <text x="45" y="100" text-anchor="end" class="label">120</text>
   <line x1="50" y1="60" x2="580" y2="60" class="grid" />
-  <text x="45" y="65" text-anchor="end" class="label">148</text>
+  <text x="45" y="65" text-anchor="end" class="label">160</text>
   <line x1="50" y1="25" x2="580" y2="25" class="grid" />
-  <text x="45" y="30" text-anchor="end" class="label">186</text>
+  <text x="45" y="30" text-anchor="end" class="label">200</text>
   <text x="-60.0" y="215" text-anchor="middle" class="label">Mar 2025</text>
   <rect x="-130" y="200" width="40" height="0" fill="#34D399" opacity="0.8">
     <title>Easy: 0</title>
@@ -109,14 +109,14 @@ LeetCode-Practice/
     <title>Hard: 0</title>
   </rect>
   <text x="690.0" y="215" text-anchor="middle" class="label">Aug 2025</text>
-  <rect x="620" y="180" width="40" height="20" fill="#34D399" opacity="0.8">
+  <rect x="620" y="181" width="40" height="19" fill="#34D399" opacity="0.8">
     <title>Easy: 22</title>
   </rect>
-  <rect x="670" y="141" width="40" height="59" fill="#FBBF24" opacity="0.8">
-    <title>Medium: 63</title>
+  <rect x="670" y="140" width="40" height="60" fill="#FBBF24" opacity="0.8">
+    <title>Medium: 69</title>
   </rect>
   <rect x="720" y="193" width="40" height="7" fill="#EF4444" opacity="0.8">
-    <title>Hard: 8</title>
+    <title>Hard: 9</title>
   </rect>
   <rect x="450" y="30" width="15" height="10" fill="#34D399" />
   <text x="470" y="39" class="label">Easy</text>
@@ -143,16 +143,16 @@ LeetCode-Practice/
   <line x1="50" y1="200" x2="580" y2="200" class="grid" />
   <text x="45" y="205" text-anchor="end" class="label">0</text>
   <line x1="50" y1="165" x2="580" y2="165" class="grid" />
-  <text x="45" y="170" text-anchor="end" class="label">37</text>
+  <text x="45" y="170" text-anchor="end" class="label">40</text>
   <line x1="50" y1="130" x2="580" y2="130" class="grid" />
-  <text x="45" y="135" text-anchor="end" class="label">74</text>
+  <text x="45" y="135" text-anchor="end" class="label">80</text>
   <line x1="50" y1="95" x2="580" y2="95" class="grid" />
-  <text x="45" y="100" text-anchor="end" class="label">111</text>
+  <text x="45" y="100" text-anchor="end" class="label">120</text>
   <line x1="50" y1="60" x2="580" y2="60" class="grid" />
-  <text x="45" y="65" text-anchor="end" class="label">148</text>
+  <text x="45" y="65" text-anchor="end" class="label">160</text>
   <line x1="50" y1="25" x2="580" y2="25" class="grid" />
-  <text x="45" y="30" text-anchor="end" class="label">186</text>
-  <path d="M83.125,200 L149.375,200 L215.625,200 L281.875,200 L348.125,200 L414.375,200 L480.625,200 L546.875,180" class="line" stroke="#34D399" />
+  <text x="45" y="30" text-anchor="end" class="label">200</text>
+  <path d="M83.125,200 L149.375,200 L215.625,200 L281.875,200 L348.125,200 L414.375,200 L480.625,200 L546.875,181" class="line" stroke="#34D399" />
   <circle cx="83.125" cy="200" class="point" fill="#34D399" />
   <circle cx="149.375" cy="200" class="point" fill="#34D399" />
   <circle cx="215.625" cy="200" class="point" fill="#34D399" />
@@ -160,8 +160,8 @@ LeetCode-Practice/
   <circle cx="348.125" cy="200" class="point" fill="#34D399" />
   <circle cx="414.375" cy="200" class="point" fill="#34D399" />
   <circle cx="480.625" cy="200" class="point" fill="#34D399" />
-  <circle cx="546.875" cy="180" class="point" fill="#34D399" />
-  <path d="M83.125,200 L149.375,200 L215.625,200 L281.875,200 L348.125,200 L414.375,200 L480.625,200 L546.875,141" class="line" stroke="#FBBF24" />
+  <circle cx="546.875" cy="181" class="point" fill="#34D399" />
+  <path d="M83.125,200 L149.375,200 L215.625,200 L281.875,200 L348.125,200 L414.375,200 L480.625,200 L546.875,140" class="line" stroke="#FBBF24" />
   <circle cx="83.125" cy="200" class="point" fill="#FBBF24" />
   <circle cx="149.375" cy="200" class="point" fill="#FBBF24" />
   <circle cx="215.625" cy="200" class="point" fill="#FBBF24" />
@@ -169,7 +169,7 @@ LeetCode-Practice/
   <circle cx="348.125" cy="200" class="point" fill="#FBBF24" />
   <circle cx="414.375" cy="200" class="point" fill="#FBBF24" />
   <circle cx="480.625" cy="200" class="point" fill="#FBBF24" />
-  <circle cx="546.875" cy="141" class="point" fill="#FBBF24" />
+  <circle cx="546.875" cy="140" class="point" fill="#FBBF24" />
   <path d="M83.125,200 L149.375,200 L215.625,200 L281.875,200 L348.125,200 L414.375,200 L480.625,200 L546.875,193" class="line" stroke="#EF4444" />
   <circle cx="83.125" cy="200" class="point" fill="#EF4444" />
   <circle cx="149.375" cy="200" class="point" fill="#EF4444" />
@@ -203,8 +203,8 @@ LeetCode-Practice/
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [两数之和](https://leetcode.com/problems/两数之和/) | Easy | [Code](././Easy/1.两数之和.py) |
-| [两数相加](https://leetcode.com/problems/两数相加/) | Medium | [Code](././Medium/2.两数相加.py) |
 | [两数相加(2)](https://leetcode.com/problems/两数相加(2)/) | Medium | [Code](././Medium/2.两数相加(2).py) |
+| [两数相加](https://leetcode.com/problems/两数相加/) | Medium | [Code](././Medium/2.两数相加.py) |
 | [无重复字符的最长子串](https://leetcode.com/problems/无重复字符的最长子串/) | Medium | [Code](././Medium/3.无重复字符的最长子串.py) |
 | [无重复字符的最长子串(2)](https://leetcode.com/problems/无重复字符的最长子串(2)/) | Medium | [Code](././Medium/3.无重复字符的最长子串(2).py) |
 | [寻找两个正序数组的中位数](https://leetcode.com/problems/寻找两个正序数组的中位数/) | Hard | [Code](././Hard/4.寻找两个正序数组的中位数.py) |
@@ -214,6 +214,7 @@ LeetCode-Practice/
 | [删除链表的倒数第-N-个结点](https://leetcode.com/problems/删除链表的倒数第-n-个结点/) | Medium | [Code](././Medium/19.删除链表的倒数第-n-个结点.py) |
 | [有效的括号](https://leetcode.com/problems/有效的括号/) | Easy | [Code](././Easy/20.有效的括号.py) |
 | [合并两个有序链表](https://leetcode.com/problems/合并两个有序链表/) | Easy | [Code](././Easy/21.合并两个有序链表.py) |
+| [括号生成](https://leetcode.com/problems/括号生成/) | Medium | [Code](././Medium/22.括号生成.py) |
 | [合并-K-个升序链表](https://leetcode.com/problems/合并-k-个升序链表/) | Medium | [Code](././Medium/23.合并-k-个升序链表.py) |
 | [两两交换链表中的节点](https://leetcode.com/problems/两两交换链表中的节点/) | Medium | [Code](././Medium/24.两两交换链表中的节点.py) |
 | [K-个一组翻转链表](https://leetcode.com/problems/k-个一组翻转链表/) | Hard | [Code](././Hard/25.k-个一组翻转链表.py) |
@@ -236,11 +237,12 @@ LeetCode-Practice/
 | [颜色分类](https://leetcode.com/problems/颜色分类/) | Medium | [Code](././Medium/75.颜色分类.py) |
 | [最小覆盖子串](https://leetcode.com/problems/最小覆盖子串/) | Hard | [Code](././Hard/76.最小覆盖子串.py) |
 | [子集](https://leetcode.com/problems/子集/) | Medium | [Code](././Medium/78.子集.py) |
+| [单词搜索](https://leetcode.com/problems/单词搜索/) | Medium | [Code](././Medium/79.单词搜索.py) |
 | [二叉树的中序遍历](https://leetcode.com/problems/二叉树的中序遍历/) | Easy | [Code](././Easy/94.二叉树的中序遍历.py) |
 | [验证二叉搜索树](https://leetcode.com/problems/验证二叉搜索树/) | Medium | [Code](././Medium/98.验证二叉搜索树.py) |
 | [对称二叉树](https://leetcode.com/problems/对称二叉树/) | Easy | [Code](././Easy/101.对称二叉树.py) |
-| [二叉树的层序遍历(2)](https://leetcode.com/problems/二叉树的层序遍历(2)/) | Medium | [Code](././Medium/102.二叉树的层序遍历(2).py) |
 | [二叉树的层序遍历](https://leetcode.com/problems/二叉树的层序遍历/) | Medium | [Code](././Medium/102.二叉树的层序遍历.py) |
+| [二叉树的层序遍历(2)](https://leetcode.com/problems/二叉树的层序遍历(2)/) | Medium | [Code](././Medium/102.二叉树的层序遍历(2).py) |
 | [二叉树的锯齿形层序遍历](https://leetcode.com/problems/二叉树的锯齿形层序遍历/) | Medium | [Code](././Medium/103.二叉树的锯齿形层序遍历.py) |
 | [二叉树的最大深度](https://leetcode.com/problems/二叉树的最大深度/) | Easy | [Code](././Easy/104.二叉树的最大深度.py) |
 | [从前序与中序遍历序列构造二叉树](https://leetcode.com/problems/从前序与中序遍历序列构造二叉树/) | Medium | [Code](././Medium/105.从前序与中序遍历序列构造二叉树.py) |
@@ -250,7 +252,9 @@ LeetCode-Practice/
 | [买卖股票的最佳时机](https://leetcode.com/problems/买卖股票的最佳时机/) | Easy | [Code](././Easy/121.买卖股票的最佳时机.py) |
 | [买卖股票的最佳时机-Ii](https://leetcode.com/problems/买卖股票的最佳时机-ii/) | Medium | [Code](././Medium/122.买卖股票的最佳时机-ii.py) |
 | [买卖股票的最佳时机-Iii](https://leetcode.com/problems/买卖股票的最佳时机-iii/) | Hard | [Code](././Hard/123.买卖股票的最佳时机-iii.py) |
+| [二叉树中的最大路径和](https://leetcode.com/problems/二叉树中的最大路径和/) | Hard | [Code](././Hard/124.二叉树中的最大路径和.py) |
 | [最长连续序列](https://leetcode.com/problems/最长连续序列/) | Medium | [Code](././Medium/128.最长连续序列.py) |
+| [分割回文串](https://leetcode.com/problems/分割回文串/) | Medium | [Code](././Medium/131.分割回文串.py) |
 | [只出现一次的数字](https://leetcode.com/problems/只出现一次的数字/) | Easy | [Code](././Easy/136.只出现一次的数字.py) |
 | [随机链表的复制](https://leetcode.com/problems/随机链表的复制/) | Medium | [Code](././Medium/138.随机链表的复制.py) |
 | [环形链表](https://leetcode.com/problems/环形链表/) | Easy | [Code](././Easy/141.环形链表.py) |
@@ -263,6 +267,7 @@ LeetCode-Practice/
 | [买卖股票的最佳时机-Iv](https://leetcode.com/problems/买卖股票的最佳时机-iv/) | Hard | [Code](././Hard/188.买卖股票的最佳时机-iv.py) |
 | [轮转数组](https://leetcode.com/problems/轮转数组/) | Medium | [Code](././Medium/189.轮转数组.py) |
 | [打家劫舍](https://leetcode.com/problems/打家劫舍/) | Medium | [Code](././Medium/198.打家劫舍.py) |
+| [打家劫舍(2)](https://leetcode.com/problems/打家劫舍(2)/) | Medium | [Code](././Medium/198.打家劫舍(2).py) |
 | [二叉树的右视图](https://leetcode.com/problems/二叉树的右视图/) | Medium | [Code](././Medium/199.二叉树的右视图.py) |
 | [岛屿数量](https://leetcode.com/problems/岛屿数量/) | Medium | [Code](././Medium/200.岛屿数量.py) |
 | [反转链表](https://leetcode.com/problems/反转链表/) | Easy | [Code](././Easy/206.反转链表.py) |
@@ -274,6 +279,7 @@ LeetCode-Practice/
 | [翻转二叉树](https://leetcode.com/problems/翻转二叉树/) | Easy | [Code](././Easy/226.翻转二叉树.py) |
 | [二叉搜索树中第-K-小的元素](https://leetcode.com/problems/二叉搜索树中第-k-小的元素/) | Medium | [Code](././Medium/230.二叉搜索树中第-k-小的元素.py) |
 | [回文链表](https://leetcode.com/problems/回文链表/) | Easy | [Code](././Easy/234.回文链表.py) |
+| [二叉树的最近公共祖先](https://leetcode.com/problems/二叉树的最近公共祖先/) | Medium | [Code](././Medium/236.二叉树的最近公共祖先.py) |
 | [除自身以外数组的乘积](https://leetcode.com/problems/除自身以外数组的乘积/) | Medium | [Code](././Medium/238.除自身以外数组的乘积.py) |
 | [滑动窗口最大值](https://leetcode.com/problems/滑动窗口最大值/) | Hard | [Code](././Hard/239.滑动窗口最大值.py) |
 | [搜索二维矩阵-Ii](https://leetcode.com/problems/搜索二维矩阵-ii/) | Medium | [Code](././Medium/240.搜索二维矩阵-ii.py) |
@@ -282,6 +288,7 @@ LeetCode-Practice/
 | [前-K-个高频元素](https://leetcode.com/problems/前-k-个高频元素/) | Medium | [Code](././Medium/347.前-k-个高频元素.py) |
 | [字符串解码](https://leetcode.com/problems/字符串解码/) | Medium | [Code](././Medium/394.字符串解码.py) |
 | [找到字符串中所有字母异位词](https://leetcode.com/problems/找到字符串中所有字母异位词/) | Medium | [Code](././Medium/438.找到字符串中所有字母异位词.py) |
+| [目标和](https://leetcode.com/problems/目标和/) | Medium | [Code](././Medium/494.目标和.py) |
 | [找树左下角的值](https://leetcode.com/problems/找树左下角的值/) | Medium | [Code](././Medium/513.找树左下角的值.py) |
 | [二叉树的直径](https://leetcode.com/problems/二叉树的直径/) | Easy | [Code](././Easy/543.二叉树的直径.py) |
 | [省份数量](https://leetcode.com/problems/省份数量/) | Medium | [Code](././Medium/547.省份数量.py) |
