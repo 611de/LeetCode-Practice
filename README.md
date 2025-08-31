@@ -27,8 +27,8 @@ LeetCode-Practice/
 
 ## **📈 Progress**
 
-- **Total Solved**: `100` problems (Easy: `22`, Medium: `69`, Hard: `9`)
-- Easy: ██░░░░░░░░ 22/100 (22%) | Medium: ██████░░░░ 69/100 (69%) | Hard: ░░░░░░░░░░ 9/100 (9%)
+- **Total Solved**: `108` problems (Easy: `22`, Medium: `75`, Hard: `11`)
+- Easy: ██░░░░░░░░ 22/108 (20%) | Medium: ██████░░░░ 75/108 (69%) | Hard: █░░░░░░░░░ 11/108 (10%)
 - **Current Focus**: Advanced algorithms (e.g., graph traversal, advanced DP)
 - **Daily Goal**: Solve `1-2` problems to maintain consistency.
 
@@ -49,15 +49,15 @@ LeetCode-Practice/
   <line x1="50" y1="200" x2="580" y2="200" class="grid" />
   <text x="45" y="205" text-anchor="end" class="label">0</text>
   <line x1="50" y1="165" x2="580" y2="165" class="grid" />
-  <text x="45" y="170" text-anchor="end" class="label">40</text>
+  <text x="45" y="170" text-anchor="end" class="label">43</text>
   <line x1="50" y1="130" x2="580" y2="130" class="grid" />
-  <text x="45" y="135" text-anchor="end" class="label">80</text>
+  <text x="45" y="135" text-anchor="end" class="label">86</text>
   <line x1="50" y1="95" x2="580" y2="95" class="grid" />
-  <text x="45" y="100" text-anchor="end" class="label">120</text>
+  <text x="45" y="100" text-anchor="end" class="label">129</text>
   <line x1="50" y1="60" x2="580" y2="60" class="grid" />
-  <text x="45" y="65" text-anchor="end" class="label">160</text>
+  <text x="45" y="65" text-anchor="end" class="label">172</text>
   <line x1="50" y1="25" x2="580" y2="25" class="grid" />
-  <text x="45" y="30" text-anchor="end" class="label">200</text>
+  <text x="45" y="30" text-anchor="end" class="label">216</text>
   <text x="-60.0" y="215" text-anchor="middle" class="label">Mar 2025</text>
   <rect x="-130" y="200" width="40" height="0" fill="#34D399" opacity="0.8">
     <title>Easy: 0</title>
@@ -109,14 +109,14 @@ LeetCode-Practice/
     <title>Hard: 0</title>
   </rect>
   <text x="690.0" y="215" text-anchor="middle" class="label">Aug 2025</text>
-  <rect x="620" y="181" width="40" height="19" fill="#34D399" opacity="0.8">
+  <rect x="620" y="183" width="40" height="17" fill="#34D399" opacity="0.8">
     <title>Easy: 22</title>
   </rect>
   <rect x="670" y="140" width="40" height="60" fill="#FBBF24" opacity="0.8">
-    <title>Medium: 69</title>
+    <title>Medium: 75</title>
   </rect>
-  <rect x="720" y="193" width="40" height="7" fill="#EF4444" opacity="0.8">
-    <title>Hard: 9</title>
+  <rect x="720" y="192" width="40" height="8" fill="#EF4444" opacity="0.8">
+    <title>Hard: 11</title>
   </rect>
   <rect x="450" y="30" width="15" height="10" fill="#34D399" />
   <text x="470" y="39" class="label">Easy</text>
@@ -143,16 +143,16 @@ LeetCode-Practice/
   <line x1="50" y1="200" x2="580" y2="200" class="grid" />
   <text x="45" y="205" text-anchor="end" class="label">0</text>
   <line x1="50" y1="165" x2="580" y2="165" class="grid" />
-  <text x="45" y="170" text-anchor="end" class="label">40</text>
+  <text x="45" y="170" text-anchor="end" class="label">43</text>
   <line x1="50" y1="130" x2="580" y2="130" class="grid" />
-  <text x="45" y="135" text-anchor="end" class="label">80</text>
+  <text x="45" y="135" text-anchor="end" class="label">86</text>
   <line x1="50" y1="95" x2="580" y2="95" class="grid" />
-  <text x="45" y="100" text-anchor="end" class="label">120</text>
+  <text x="45" y="100" text-anchor="end" class="label">129</text>
   <line x1="50" y1="60" x2="580" y2="60" class="grid" />
-  <text x="45" y="65" text-anchor="end" class="label">160</text>
+  <text x="45" y="65" text-anchor="end" class="label">172</text>
   <line x1="50" y1="25" x2="580" y2="25" class="grid" />
-  <text x="45" y="30" text-anchor="end" class="label">200</text>
-  <path d="M83.125,200 L149.375,200 L215.625,200 L281.875,200 L348.125,200 L414.375,200 L480.625,200 L546.875,181" class="line" stroke="#34D399" />
+  <text x="45" y="30" text-anchor="end" class="label">216</text>
+  <path d="M83.125,200 L149.375,200 L215.625,200 L281.875,200 L348.125,200 L414.375,200 L480.625,200 L546.875,183" class="line" stroke="#34D399" />
   <circle cx="83.125" cy="200" class="point" fill="#34D399" />
   <circle cx="149.375" cy="200" class="point" fill="#34D399" />
   <circle cx="215.625" cy="200" class="point" fill="#34D399" />
@@ -160,7 +160,7 @@ LeetCode-Practice/
   <circle cx="348.125" cy="200" class="point" fill="#34D399" />
   <circle cx="414.375" cy="200" class="point" fill="#34D399" />
   <circle cx="480.625" cy="200" class="point" fill="#34D399" />
-  <circle cx="546.875" cy="181" class="point" fill="#34D399" />
+  <circle cx="546.875" cy="183" class="point" fill="#34D399" />
   <path d="M83.125,200 L149.375,200 L215.625,200 L281.875,200 L348.125,200 L414.375,200 L480.625,200 L546.875,140" class="line" stroke="#FBBF24" />
   <circle cx="83.125" cy="200" class="point" fill="#FBBF24" />
   <circle cx="149.375" cy="200" class="point" fill="#FBBF24" />
@@ -170,7 +170,7 @@ LeetCode-Practice/
   <circle cx="414.375" cy="200" class="point" fill="#FBBF24" />
   <circle cx="480.625" cy="200" class="point" fill="#FBBF24" />
   <circle cx="546.875" cy="140" class="point" fill="#FBBF24" />
-  <path d="M83.125,200 L149.375,200 L215.625,200 L281.875,200 L348.125,200 L414.375,200 L480.625,200 L546.875,193" class="line" stroke="#EF4444" />
+  <path d="M83.125,200 L149.375,200 L215.625,200 L281.875,200 L348.125,200 L414.375,200 L480.625,200 L546.875,192" class="line" stroke="#EF4444" />
   <circle cx="83.125" cy="200" class="point" fill="#EF4444" />
   <circle cx="149.375" cy="200" class="point" fill="#EF4444" />
   <circle cx="215.625" cy="200" class="point" fill="#EF4444" />
@@ -178,7 +178,7 @@ LeetCode-Practice/
   <circle cx="348.125" cy="200" class="point" fill="#EF4444" />
   <circle cx="414.375" cy="200" class="point" fill="#EF4444" />
   <circle cx="480.625" cy="200" class="point" fill="#EF4444" />
-  <circle cx="546.875" cy="193" class="point" fill="#EF4444" />
+  <circle cx="546.875" cy="192" class="point" fill="#EF4444" />
   <text x="83.125" y="215" text-anchor="middle" class="label" transform="rotate(45,83.125,215)">28</text>
   <text x="149.375" y="215" text-anchor="middle" class="label" transform="rotate(45,149.375,215)">29</text>
   <text x="215.625" y="215" text-anchor="middle" class="label" transform="rotate(45,215.625,215)">30</text>
@@ -224,14 +224,18 @@ LeetCode-Practice/
 | [组合总和](https://leetcode.com/problems/组合总和/) | Medium | [Code](././Medium/39.组合总和.py) |
 | [缺失的第一个正数](https://leetcode.com/problems/缺失的第一个正数/) | Hard | [Code](././Hard/41.缺失的第一个正数.py) |
 | [接雨水](https://leetcode.com/problems/接雨水/) | Hard | [Code](././Hard/42.接雨水.py) |
+| [跳跃游戏-Ii](https://leetcode.com/problems/跳跃游戏-ii/) | Medium | [Code](././Medium/45.跳跃游戏-ii.py) |
 | [全排列](https://leetcode.com/problems/全排列/) | Medium | [Code](././Medium/46.全排列.py) |
 | [旋转图像](https://leetcode.com/problems/旋转图像/) | Medium | [Code](././Medium/48.旋转图像.py) |
 | [字母异位词分组](https://leetcode.com/problems/字母异位词分组/) | Medium | [Code](././Medium/49.字母异位词分组.py) |
+| [N-皇后](https://leetcode.com/problems/n-皇后/) | Hard | [Code](././Hard/51.n-皇后.py) |
+| [N-皇后-Ii](https://leetcode.com/problems/n-皇后-ii/) | Hard | [Code](././Hard/52.n-皇后-ii.py) |
 | [最大子数组和](https://leetcode.com/problems/最大子数组和/) | Medium | [Code](././Medium/53.最大子数组和.py) |
 | [跳跃游戏](https://leetcode.com/problems/跳跃游戏/) | Medium | [Code](././Medium/55.跳跃游戏.py) |
 | [合并区间](https://leetcode.com/problems/合并区间/) | Medium | [Code](././Medium/56.合并区间.py) |
 | [最后一个单词的长度](https://leetcode.com/problems/最后一个单词的长度/) | Easy | [Code](././Easy/58.最后一个单词的长度.py) |
 | [爬楼梯](https://leetcode.com/problems/爬楼梯/) | Easy | [Code](././Easy/70.爬楼梯.py) |
+| [编辑距离](https://leetcode.com/problems/编辑距离/) | Medium | [Code](././Medium/72.编辑距离.py) |
 | [矩阵置零](https://leetcode.com/problems/矩阵置零/) | Medium | [Code](././Medium/73.矩阵置零.py) |
 | [搜索二维矩阵](https://leetcode.com/problems/搜索二维矩阵/) | Medium | [Code](././Medium/74.搜索二维矩阵.py) |
 | [颜色分类](https://leetcode.com/problems/颜色分类/) | Medium | [Code](././Medium/75.颜色分类.py) |
@@ -283,8 +287,11 @@ LeetCode-Practice/
 | [除自身以外数组的乘积](https://leetcode.com/problems/除自身以外数组的乘积/) | Medium | [Code](././Medium/238.除自身以外数组的乘积.py) |
 | [滑动窗口最大值](https://leetcode.com/problems/滑动窗口最大值/) | Hard | [Code](././Hard/239.滑动窗口最大值.py) |
 | [搜索二维矩阵-Ii](https://leetcode.com/problems/搜索二维矩阵-ii/) | Medium | [Code](././Medium/240.搜索二维矩阵-ii.py) |
+| [完全平方数](https://leetcode.com/problems/完全平方数/) | Medium | [Code](././Medium/279.完全平方数.py) |
 | [移动零](https://leetcode.com/problems/移动零/) | Easy | [Code](././Easy/283.移动零.py) |
+| [最长递增子序列](https://leetcode.com/problems/最长递增子序列/) | Medium | [Code](././Medium/300.最长递增子序列.py) |
 | [买卖股票的最佳时机含冷冻期](https://leetcode.com/problems/买卖股票的最佳时机含冷冻期/) | Medium | [Code](././Medium/309.买卖股票的最佳时机含冷冻期.py) |
+| [零钱兑换](https://leetcode.com/problems/零钱兑换/) | Medium | [Code](././Medium/322.零钱兑换.py) |
 | [前-K-个高频元素](https://leetcode.com/problems/前-k-个高频元素/) | Medium | [Code](././Medium/347.前-k-个高频元素.py) |
 | [字符串解码](https://leetcode.com/problems/字符串解码/) | Medium | [Code](././Medium/394.字符串解码.py) |
 | [找到字符串中所有字母异位词](https://leetcode.com/problems/找到字符串中所有字母异位词/) | Medium | [Code](././Medium/438.找到字符串中所有字母异位词.py) |
@@ -296,6 +303,7 @@ LeetCode-Practice/
 | [岛屿的最大面积](https://leetcode.com/problems/岛屿的最大面积/) | Medium | [Code](././Medium/695.岛屿的最大面积.py) |
 | [乘积小于-K-的子数组](https://leetcode.com/problems/乘积小于-k-的子数组/) | Medium | [Code](././Medium/713.乘积小于-k-的子数组.py) |
 | [每日温度](https://leetcode.com/problems/每日温度/) | Medium | [Code](././Medium/739.每日温度.py) |
+| [划分字母区间](https://leetcode.com/problems/划分字母区间/) | Medium | [Code](././Medium/763.划分字母区间.py) |
 | [所有可能的路径](https://leetcode.com/problems/所有可能的路径/) | Medium | [Code](././Medium/797.所有可能的路径.py) |
 | [腐烂的橘子](https://leetcode.com/problems/腐烂的橘子/) | Medium | [Code](././Medium/994.腐烂的橘子.py) |
 | [迷宫中离入口最近的出口](https://leetcode.com/problems/迷宫中离入口最近的出口/) | Medium | [Code](././Medium/1926.迷宫中离入口最近的出口.py) |
