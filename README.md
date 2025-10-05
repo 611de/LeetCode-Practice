@@ -58,7 +58,7 @@ LeetCode-Practice/
   <text x="45" y="65" text-anchor="end" class="label">172</text>
   <line x1="50" y1="25" x2="580" y2="25" class="grid" />
   <text x="45" y="30" text-anchor="end" class="label">216</text>
-  <text x="-60.0" y="215" text-anchor="middle" class="label">Apr 2025</text>
+  <text x="-60.0" y="215" text-anchor="middle" class="label">May 2025</text>
   <rect x="-130" y="200" width="40" height="0" fill="#34D399" opacity="0.8">
     <title>Easy: 0</title>
   </rect>
@@ -68,7 +68,7 @@ LeetCode-Practice/
   <rect x="-30" y="200" width="40" height="0" fill="#EF4444" opacity="0.8">
     <title>Hard: 0</title>
   </rect>
-  <text x="90.0" y="215" text-anchor="middle" class="label">May 2025</text>
+  <text x="90.0" y="215" text-anchor="middle" class="label">Jun 2025</text>
   <rect x="20" y="200" width="40" height="0" fill="#34D399" opacity="0.8">
     <title>Easy: 0</title>
   </rect>
@@ -78,7 +78,7 @@ LeetCode-Practice/
   <rect x="120" y="200" width="40" height="0" fill="#EF4444" opacity="0.8">
     <title>Hard: 0</title>
   </rect>
-  <text x="240.0" y="215" text-anchor="middle" class="label">Jun 2025</text>
+  <text x="240.0" y="215" text-anchor="middle" class="label">Jul 2025</text>
   <rect x="170" y="200" width="40" height="0" fill="#34D399" opacity="0.8">
     <title>Easy: 0</title>
   </rect>
@@ -88,7 +88,7 @@ LeetCode-Practice/
   <rect x="270" y="200" width="40" height="0" fill="#EF4444" opacity="0.8">
     <title>Hard: 0</title>
   </rect>
-  <text x="390.0" y="215" text-anchor="middle" class="label">Jul 2025</text>
+  <text x="390.0" y="215" text-anchor="middle" class="label">Aug 2025</text>
   <rect x="320" y="200" width="40" height="0" fill="#34D399" opacity="0.8">
     <title>Easy: 0</title>
   </rect>
@@ -98,7 +98,7 @@ LeetCode-Practice/
   <rect x="420" y="200" width="40" height="0" fill="#EF4444" opacity="0.8">
     <title>Hard: 0</title>
   </rect>
-  <text x="540.0" y="215" text-anchor="middle" class="label">Aug 2025</text>
+  <text x="540.0" y="215" text-anchor="middle" class="label">Sep 2025</text>
   <rect x="470" y="200" width="40" height="0" fill="#34D399" opacity="0.8">
     <title>Easy: 0</title>
   </rect>
@@ -108,7 +108,7 @@ LeetCode-Practice/
   <rect x="570" y="200" width="40" height="0" fill="#EF4444" opacity="0.8">
     <title>Hard: 0</title>
   </rect>
-  <text x="690.0" y="215" text-anchor="middle" class="label">Sep 2025</text>
+  <text x="690.0" y="215" text-anchor="middle" class="label">Oct 2025</text>
   <rect x="620" y="183" width="40" height="17" fill="#34D399" opacity="0.8">
     <title>Easy: 22</title>
   </rect>
@@ -179,14 +179,14 @@ LeetCode-Practice/
   <circle cx="414.375" cy="200" class="point" fill="#EF4444" />
   <circle cx="480.625" cy="200" class="point" fill="#EF4444" />
   <circle cx="546.875" cy="192" class="point" fill="#EF4444" />
-  <text x="83.125" y="215" text-anchor="middle" class="label" transform="rotate(45,83.125,215)">32</text>
-  <text x="149.375" y="215" text-anchor="middle" class="label" transform="rotate(45,149.375,215)">33</text>
-  <text x="215.625" y="215" text-anchor="middle" class="label" transform="rotate(45,215.625,215)">34</text>
-  <text x="281.875" y="215" text-anchor="middle" class="label" transform="rotate(45,281.875,215)">35</text>
-  <text x="348.125" y="215" text-anchor="middle" class="label" transform="rotate(45,348.125,215)">36</text>
-  <text x="414.375" y="215" text-anchor="middle" class="label" transform="rotate(45,414.375,215)">37</text>
-  <text x="480.625" y="215" text-anchor="middle" class="label" transform="rotate(45,480.625,215)">38</text>
-  <text x="546.875" y="215" text-anchor="middle" class="label" transform="rotate(45,546.875,215)">39</text>
+  <text x="83.125" y="215" text-anchor="middle" class="label" transform="rotate(45,83.125,215)">33</text>
+  <text x="149.375" y="215" text-anchor="middle" class="label" transform="rotate(45,149.375,215)">34</text>
+  <text x="215.625" y="215" text-anchor="middle" class="label" transform="rotate(45,215.625,215)">35</text>
+  <text x="281.875" y="215" text-anchor="middle" class="label" transform="rotate(45,281.875,215)">36</text>
+  <text x="348.125" y="215" text-anchor="middle" class="label" transform="rotate(45,348.125,215)">37</text>
+  <text x="414.375" y="215" text-anchor="middle" class="label" transform="rotate(45,414.375,215)">38</text>
+  <text x="480.625" y="215" text-anchor="middle" class="label" transform="rotate(45,480.625,215)">39</text>
+  <text x="546.875" y="215" text-anchor="middle" class="label" transform="rotate(45,546.875,215)">40</text>
   <line x1="450" y1="35" x2="470" y2="35" class="line" stroke="#34D399" />
   <circle cx="460" cy="35" class="point" fill="#34D399" />
   <text x="475" y="39" class="label">Easy</text>
